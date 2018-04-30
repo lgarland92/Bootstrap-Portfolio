@@ -1,8 +1,9 @@
-#flat {
-    padding-top: 20px;
-    padding-bottom: 20px;
+.flat {
+    height: 100%;
+    width: 100%;
+    margin: 20px;
 }
 
-.row {
-    margin-bottom: 30px;
+body {
+    background: lavenderblush;
 }
