@@ -12,7 +12,7 @@ body {
     background-color: teal;
 }
 
-#gallery-box {
+.gallery-box {
     background: teal;
     position: relative;
     padding: 20px;
